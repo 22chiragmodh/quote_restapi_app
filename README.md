@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+##### Realse mode apk: check this repo floder build->app->outputs->apk->realse
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
